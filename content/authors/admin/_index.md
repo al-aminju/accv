@@ -53,50 +53,50 @@ interests:
   - WEB DEVELOPMENT
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: B.Sc Undergraduate at 
+    institution: Jahangirnagar University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      I am happy.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: HSC 
+    institution: CGC
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 5.00/5.00
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      - ICT
+      - MATH
+      - PHYSICS
+  - area: SSC
+    institution: TSC
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 5.00/5.00
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - ICT
+      - MATH
+      - PHYSICS
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Student
+    company_name: JU
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+      - SCIENCE CLUB
+      - ROTARY CLUB
+      - TORI CLUB
+  - position: FRONTEND Software Engineer
     company_name: X
     company_url: ''
     company_logo: ''
@@ -104,9 +104,8 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - TO MAKE THE WEBSITES CONVENIENT
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -184,4 +183,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A web developer and a student of Computer Science and Engineering at Jahangirnagar University. I specialize in building responsive, user-friendly websites using technologies like HTML, CSS, JavaScript. I’m passionate about creating clean, efficient code and delivering great user experiences.
+Always eager to learn and grow, I enjoy exploring new web development trends and challenges. Let’s connect if you'd like to collaborate or discuss a project!
