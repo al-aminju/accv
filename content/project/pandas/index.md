@@ -8,6 +8,6 @@ external_link: https://al-aminju.github.io/Survey_Form/
 #   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+THIS IS AN EXAMPLE OF SURVEY FORM.
 
 <!--more-->
